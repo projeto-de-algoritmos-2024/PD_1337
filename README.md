@@ -1,6 +1,6 @@
 # PD_1337
 
-**Número da Lista**: X<br>
+**Número da Lista**: 50<br>
 **Conteúdo da Disciplina**: Progamação dinamica<br>
 
 ## Alunos
